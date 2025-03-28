@@ -1,0 +1,2 @@
+const DeepSeekAPIKey = "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"; //Open Router
+const GEMINI_API_KEY = "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"; //Generative Language
